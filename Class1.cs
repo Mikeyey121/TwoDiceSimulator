@@ -41,7 +41,7 @@ namespace TwoDiceSimulator
                 System.Console.WriteLine($"{counter + 2}: {asteriks}");
 
             }
-            System.Console.WriteLine("\nThank you for using the dice throwing simulator. Goodbye!");
+            System.Console.WriteLine("\nThank you for using the dice throwing simulator. Goodbye!\n\n");
 
         }
     }
